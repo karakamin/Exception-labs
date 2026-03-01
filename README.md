@@ -1,10 +1,11 @@
-# Knowledge Base
+# Exception-labs
 
-個人的技術筆記與學習紀錄。
+在例外中找到規則，是個日常學習與反思紀錄
 
 ## 🎯 目標
 
-- 整理學習筆記，目前可能的方向是 Java / Spring Boot / React / Python / 讀書心得
+- 有關學習技術的紀錄，可能的方向是 Java / Spring Boot / React / Python
+- 閱讀及反思
 - 所有筆記以 **Markdown + Frontmatter** 格式儲存，方便程式讀取與轉換
 - 其他還沒想到 🤗
 
@@ -20,7 +21,6 @@ knowledge-base/
 │   ├── oop/
 │   └── spring-boot/
 ├── backend/
-│   ├── layered-architecture/
 │   └── database/
 ├── frontend/
 │   ├── react/
@@ -28,9 +28,6 @@ knowledge-base/
 ├── python/
 │   ├── basics/
 │   └── analysis/
-├── ai/
-│   ├── rag/
-│   └── prompting/
 ├── live2d/
 │   ├── workflow/
 │   └── model/
