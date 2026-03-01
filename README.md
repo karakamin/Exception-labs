@@ -14,26 +14,14 @@
 ## 📁 目錄
 
 ```text
-knowledge-base/
+Exception-labs/
 ├── README.md
-├── java/
-│   ├── basics/
-│   ├── oop/
-│   └── spring-boot/
-├── backend/
-│   └── database/
-├── frontend/
-│   ├── react/
-│   └── uiux/
-├── python/
-│   ├── basics/
-│   └── analysis/
-├── live2d/
-│   ├── workflow/
-│   └── model/
-├── books/
-│   ├── summaries/
-│   └── notes/
-└── assets/
-    ├── images/
-    └── diagrams/
+├── content/       # 整理後的技術筆記
+│   ├── _inbox/    # 新筆記暫存區
+│   ├── _index.md  # 內容總索引
+│   ├── backend/
+│   ├── frontend/
+│   ├── python/
+│   ├── live2d/
+│   └── books/
+└── assets/        # 圖片與圖表
